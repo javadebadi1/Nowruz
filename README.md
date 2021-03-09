@@ -10,4 +10,7 @@ Our Plan for Nowruz
 | 2   | Visit family again        |
 | 2   | Family visit back      |
 
+
+To know more about Nowruz, click [here](https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D9%88%D8%B2).
+
 Happy Nowruz
