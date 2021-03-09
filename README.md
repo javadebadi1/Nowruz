@@ -4,7 +4,7 @@
 
 This is a repository to **celebrate** _Nowruz_.
 
-
+## Table of Figures
 
 Our Plan for Nowruz
 | Days      | Tasks |
