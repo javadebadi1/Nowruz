@@ -1,6 +1,5 @@
 # Nowruz
 
-![GitHub Logo](/images/logo.png)
 ![Nowrus image](https://upload.wikimedia.org/wikipedia/commons/5/59/White_house_haft_seen.jpg)
 
 This is a repository to **celebrate** _Nowruz_.
