@@ -4,12 +4,12 @@
 
 This is a repository to **celebrate** _Nowruz_.
 
-
+## Content
 
 Our Plan for Nowruz
 | Days      | Tasks |
 | ----------- | ----------- |
-| 1      | Visit family       |
+| 1      | Visit family and Enjoy      |
 | 2   | Visit family again        |
 | 2   | Family visit back      |
 
